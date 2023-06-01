@@ -15,7 +15,7 @@ Message Type Summary:
 0x3: Self-ID Message
 0x4: System Message
 0x5: Operator ID
-0xF: Messag Packs
+0xF: Message Packs
 """
 
 hex_str = "47 5E 09 09 1E B8 06 61 93 D0 70 0A 53 16 FA FF 0D 01 F2 19 03 02 10 31 35 39 36 46 33 35 30 34 35 37 37 39 31 31 35 31 35 32 33 00 00 00 52 00 4E 55 4C 4C 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 42 04 00 00 00 00 00 00 00 00 01 00 19 00 00 00 00 10 00 00 00 00 00 00 00"
